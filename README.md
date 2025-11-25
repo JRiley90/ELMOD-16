@@ -62,21 +62,23 @@ python examples/run_v2_demo.py
 
 
 ---
-
 Citation
 
-Riley, J.H. (2025). ELMOD-16 v1.0: Evolutionary Light  
-Modulation Discovery Framework. Independent Researcher (UK).
+Riley, J.H. (2025). ELMOD-16 v1.0: Evolutionary Light Modulation Discovery Framework (16-Point).
+Independent Researcher (UK).
+GitHub: https://github.com/JRiley90/ELMOD-16
+
+
 ---
 
-## License
+License
 
-**Code:** MIT License © 2025 Jake Harry Riley  
-The codebase of ELMOD-16 v1.0 is released under the MIT License, permitting reuse, modification, and distribution with attribution.
+Code License (MIT):
+The source code of ELMOD-16 v1.0 is released under the MIT License, permitting reuse, modification, and distribution with attribution.
 
-**Documentation & Research Specification:** CC BY-NC 4.0 (Attribution–NonCommercial)  
-The documentation, research specification PDF, and descriptive materials may be used and shared non-commercially with attribution.
+Documentation & Research Specification (CC BY-NC 4.0):
+The documentation, research specification PDF, and descriptive materials are available for non-commercial use with attribution.
 
-**Commercial Licensing:**  
-For commercial use of ELMOD-16 (code, documentation, research outputs, or derivative works), licensing is available upon request.  
-To discuss commercial rights or collaboration, contact: **jakeriley407@gmail.com**
+Commercial Licensing:
+Commercial use of any part of ELMOD-16 (code, documentation, research outputs, or derivative works) requires a commercial license agreement.
+Contact: jakeriley407@gmail.com
