@@ -8,6 +8,7 @@
 ---
 
 ## Overview
+**Licensing:** ELMOD-16 is dual-licensed: free for research and academic use under CC BY-NC 4.0, and available for commercial licensing upon request.
 
 ELMOD-16 is an evolutionary research framework for discovering novel digital modulation formats using AI-assisted optimisation.
 
@@ -66,11 +67,16 @@ Citation
 
 Riley, J.H. (2025). ELMOD-16 v1.0: Evolutionary Light  
 Modulation Discovery Framework. Independent Researcher (UK).
-
-
 ---
 
-License
+## License
 
-Code: MIT License © 2025 Jake Harry Riley
-Documentation: CC-BY 4.0 (Attribution Required)
+**Code:** MIT License © 2025 Jake Harry Riley  
+The codebase of ELMOD-16 v1.0 is released under the MIT License, permitting reuse, modification, and distribution with attribution.
+
+**Documentation & Research Specification:** CC BY-NC 4.0 (Attribution–NonCommercial)  
+The documentation, research specification PDF, and descriptive materials may be used and shared non-commercially with attribution.
+
+**Commercial Licensing:**  
+For commercial use of ELMOD-16 (code, documentation, research outputs, or derivative works), licensing is available upon request.  
+To discuss commercial rights or collaboration, contact: **jakeriley407@gmail.com**
